@@ -2,7 +2,7 @@
 
 **Meeting Link**
 
-https://meet.google.com/ykb-qytd-jxc
+https://github.com/manug2/java-babies
 
 **Welcome to First Session of Java Babies**
 
