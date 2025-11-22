@@ -1,4 +1,4 @@
-# java-babies Session 01
+# java-babies Session 02
 
 **Meeting Link**
 
@@ -27,16 +27,25 @@ https://github.com/manug2/java-babies
 <br/>
 
 **Lab 2 - functions**
-- Reimplement EMC2 using custom function.
-- Implement printout using DecimalFormat.
-- Reimplement EMC2 using custom function with addition instead of multiplication in a while loop.
+- Move EMC2 calculation into a custom function.
 
 <br/>
 
-**Lab 3 - Small Functions**
-- Small functions break logic into a sub-method.
+ß**Lab 3 - while loop**
+- Basic implementation of a java while loop.
 
 <br/>
 
-**References**
-https://en.wikipedia.org/wiki/Speed_of_light
+**Lab 3 - function overloading**
+- Implement a new function for calculating energy using addition instead of multiplication using a while loop.
+
+<br/>
+
+**Recap of session 2**
+- System.out.printf 
+- Function definition
+- Function parameters
+- `while` loop
+- Function overloading - EMC2 - Calculate energy using addition and while loop instead of a for loop.
+- Question about call stack - explained using RuntimeException stack trace printout.
+
